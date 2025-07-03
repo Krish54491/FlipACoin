@@ -1,0 +1,1 @@
+# Simple python code to flip a coin and playing the corresponding video using cv2
